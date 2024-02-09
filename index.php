@@ -77,7 +77,7 @@
 
 			<!-- STEP 1: Insert an IMG element with the src attribute pointing to the image called "mini-figure" in the 'images' directory -->
 			<figure>
-				<img src="mini-figure.png" alt="mini figure image" height="176px" width="285px">
+				<img src="mini-figure.png" alt="mini figure image" height="285px" width="176px">
 				<figcaption>Mini figure by Vanja (Public Domain)</figcaption>
 			</figure>
 			<!-- STEP 2: Add an alt attribute with a short phrase that describes the image -->
