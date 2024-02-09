@@ -14,7 +14,7 @@
 	<!-- Page-level header -->
 	<header>
 		<!-- STEP 6: Add an IMG element just before the H1 element below, and point the src attribute to the SVG file called "html-logo.svg" inside the 'images' directory - then have a look at the resulting page in a browser -->
-		<img src="images/html-logo.svg" alt="html logo" height="150px" width="auto">
+		<img src="html-logo.svg" alt="html logo" height="150px" width="auto">
 		<!-- STEP 7: Add an appropriate height and width to the above IMG element - the SVG can be scaled to any size, unlike a bitmap (JPG, PNG, GIF), but keep it square -->
 		<!-- STEP 8: Add an appropriate alt attribute to the IMG element above, describing the image -->
 		<!-- STEP 9: Validate your completed page at https://validator.w3.org/ and repair any errors - then .zip all your files up and submit your work -->
@@ -77,7 +77,7 @@
 
 			<!-- STEP 1: Insert an IMG element with the src attribute pointing to the image called "mini-figure" in the 'images' directory -->
 			<figure>
-				<img src="images/mini-figure.png" alt="mini figure image" height="176px" width="285px">
+				<img src="mini-figure.png" alt="mini figure image" height="176px" width="285px">
 				<figcaption>Mini figure by Vanja (Public Domain)</figcaption>
 			</figure>
 			<!-- STEP 2: Add an alt attribute with a short phrase that describes the image -->
